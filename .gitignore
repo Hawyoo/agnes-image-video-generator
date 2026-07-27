@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.mp4
+*.mov
+*.json.tmp
+.env
