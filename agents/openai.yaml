@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agnes Image & Video Generator (observable curl)"
+  short_description: "Generate Agnes media with visible progress and exact errors"
+  default_prompt: "Use $agnes-image-video-generator and its absolute PowerShell wrapper exactly once. Preserve the user's prompt constraints, use a new output filename, wait while heartbeat lines are emitted, and report only the actual URL, saved path, or exact final error from the bundled client."
